@@ -1,6 +1,6 @@
 # Личный проект «Нёрдс»
 
-* Студент: [Денис](https://up.htmlacademy.ru/htmlcss/31/user/1258951).
+* Студент: [Денис Штокаленко](https://up.htmlacademy.ru/htmlcss/31/user/1258951).
 * Наставник: [Николай Момотенко](https://htmlacademy.ru/profile/id1103389).
 
 ---
